@@ -1,0 +1,5 @@
+interface:
+  display_name: "渠道后台每日总计取数"
+  short_description: "从渠道后台逐日查询报表并读取总计售卖门店数。"
+  default_prompt: "从渠道后台按日期范围逐日查询每日渠道报表，读取最后一行总计的售卖门店数并输出 CSV。"
+description: 渠道后台每日总门店数量统计与汇总。

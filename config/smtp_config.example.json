@@ -1,0 +1,9 @@
+{
+  "smtp_server": "smtp.exmail.qq.com",
+  "smtp_port": 465,
+  "smtp_user": "$SMTP_USER",
+  "smtp_password": "$SMTP_PASSWORD",
+  "sender_email": "$SMTP_USER",
+  "imap_server": "imap.exmail.qq.com",
+  "_comment": "所有 $ 开头的值运行时从环境变量注入（见 .env.example）。真实凭据绝不提交进仓库。config/smtp_config.json 已被 .gitignore 排除。"
+}

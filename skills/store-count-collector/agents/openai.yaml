@@ -1,0 +1,5 @@
+interface:
+  display_name: "渠道日售卖门店数取数"
+  short_description: "逐日查询渠道后台报表，读取总计行售卖门店数并输出 Markdown。"
+  default_prompt: "请使用这个 skill，确认起止日期后逐日查询渠道后台报表，读取每天总计行的售卖门店数并生成 Markdown 文件。"
+description: 渠道每日门店数量统计与汇总。

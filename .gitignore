@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 运行时产物与日志（data/mock/ 是提交的示例数据，勿排除）
+/output/
+/logs/
+data/excel/
+data/report_text/
+data/store_counts/
+
+# 凭据与本地配置（真实凭据永远不进仓库）
+.env
+config/smtp_config.json
+
+# macOS / 杂项
+.DS_Store
+
+# 前端部署
+node_modules/
+.vercel/
