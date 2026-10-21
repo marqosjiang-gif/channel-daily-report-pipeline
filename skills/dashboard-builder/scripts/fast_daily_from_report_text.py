@@ -194,7 +194,9 @@ def build_dashboard(project: Path, excel: Path, store_counts: Path, skip_png: bo
     ]
     if skip_png:
         cmd.append("--no-png")
-    proc = subprocess.run(cmd, check=True, capture_output=True, text=True)
+    proc = subprocess.run(cmd, check=False, capture_output=True, text=True)
+    if proc.returncode != 0:
+        raise RuntimeError(f"看板渲染失败: {proc.stderr.strip() or proc.stdout.strip()}")
     return json.loads(proc.stdout)
 
 

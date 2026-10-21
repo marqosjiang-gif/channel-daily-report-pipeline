@@ -56,9 +56,9 @@ def main() -> int:
     copy_fixtures()
 
     proc = run_pipeline(skip_png=False)
-    if proc.returncode != 0 and "node" in (proc.stderr + proc.stdout).lower():
+    if proc.returncode != 0:
         # PNG 渲染需要 node + playwright；不可用时降级为仅 HTML，不影响校验逻辑演示
-        print("[note] 未检测到可用的 node/playwright，跳过 PNG 渲染，仅生成 HTML 看板。\n")
+        print("[note] PNG 渲染不可用（缺 node/playwright），降级为仅生成 HTML 看板。\n")
         proc = run_pipeline(skip_png=True)
     print(proc.stdout)
     if proc.returncode != 0:
