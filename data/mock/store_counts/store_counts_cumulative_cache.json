@@ -1,0 +1,632 @@
+{
+  "results": [
+    {
+      "date": "2026-01-01",
+      "store_count": 118
+    },
+    {
+      "date": "2026-01-02",
+      "store_count": 121
+    },
+    {
+      "date": "2026-01-03",
+      "store_count": 122
+    },
+    {
+      "date": "2026-01-04",
+      "store_count": 121
+    },
+    {
+      "date": "2026-01-05",
+      "store_count": 123
+    },
+    {
+      "date": "2026-01-06",
+      "store_count": 123
+    },
+    {
+      "date": "2026-01-07",
+      "store_count": 126
+    },
+    {
+      "date": "2026-01-08",
+      "store_count": 127
+    },
+    {
+      "date": "2026-01-09",
+      "store_count": 128
+    },
+    {
+      "date": "2026-01-10",
+      "store_count": 127
+    },
+    {
+      "date": "2026-01-11",
+      "store_count": 128
+    },
+    {
+      "date": "2026-01-12",
+      "store_count": 130
+    },
+    {
+      "date": "2026-01-13",
+      "store_count": 130
+    },
+    {
+      "date": "2026-01-14",
+      "store_count": 133
+    },
+    {
+      "date": "2026-01-15",
+      "store_count": 132
+    },
+    {
+      "date": "2026-01-16",
+      "store_count": 134
+    },
+    {
+      "date": "2026-01-17",
+      "store_count": 119
+    },
+    {
+      "date": "2026-01-18",
+      "store_count": 120
+    },
+    {
+      "date": "2026-01-19",
+      "store_count": 121
+    },
+    {
+      "date": "2026-01-20",
+      "store_count": 122
+    },
+    {
+      "date": "2026-01-21",
+      "store_count": 124
+    },
+    {
+      "date": "2026-01-22",
+      "store_count": 125
+    },
+    {
+      "date": "2026-01-23",
+      "store_count": 126
+    },
+    {
+      "date": "2026-01-24",
+      "store_count": 126
+    },
+    {
+      "date": "2026-01-25",
+      "store_count": 126
+    },
+    {
+      "date": "2026-01-26",
+      "store_count": 127
+    },
+    {
+      "date": "2026-01-27",
+      "store_count": 128
+    },
+    {
+      "date": "2026-01-28",
+      "store_count": 129
+    },
+    {
+      "date": "2026-01-29",
+      "store_count": 130
+    },
+    {
+      "date": "2026-01-30",
+      "store_count": 131
+    },
+    {
+      "date": "2026-01-31",
+      "store_count": 134
+    },
+    {
+      "date": "2026-02-01",
+      "store_count": 135
+    },
+    {
+      "date": "2026-02-02",
+      "store_count": 119
+    },
+    {
+      "date": "2026-02-03",
+      "store_count": 121
+    },
+    {
+      "date": "2026-02-04",
+      "store_count": 122
+    },
+    {
+      "date": "2026-02-05",
+      "store_count": 123
+    },
+    {
+      "date": "2026-02-06",
+      "store_count": 122
+    },
+    {
+      "date": "2026-02-07",
+      "store_count": 125
+    },
+    {
+      "date": "2026-02-08",
+      "store_count": 124
+    },
+    {
+      "date": "2026-02-09",
+      "store_count": 125
+    },
+    {
+      "date": "2026-02-10",
+      "store_count": 128
+    },
+    {
+      "date": "2026-02-11",
+      "store_count": 127
+    },
+    {
+      "date": "2026-02-12",
+      "store_count": 129
+    },
+    {
+      "date": "2026-02-13",
+      "store_count": 129
+    },
+    {
+      "date": "2026-02-14",
+      "store_count": 132
+    },
+    {
+      "date": "2026-02-15",
+      "store_count": 132
+    },
+    {
+      "date": "2026-02-16",
+      "store_count": 132
+    },
+    {
+      "date": "2026-02-17",
+      "store_count": 135
+    },
+    {
+      "date": "2026-02-18",
+      "store_count": 120
+    },
+    {
+      "date": "2026-02-19",
+      "store_count": 120
+    },
+    {
+      "date": "2026-02-20",
+      "store_count": 122
+    },
+    {
+      "date": "2026-02-21",
+      "store_count": 123
+    },
+    {
+      "date": "2026-02-22",
+      "store_count": 123
+    },
+    {
+      "date": "2026-02-23",
+      "store_count": 123
+    },
+    {
+      "date": "2026-02-24",
+      "store_count": 125
+    },
+    {
+      "date": "2026-02-25",
+      "store_count": 126
+    },
+    {
+      "date": "2026-02-26",
+      "store_count": 127
+    },
+    {
+      "date": "2026-02-27",
+      "store_count": 127
+    },
+    {
+      "date": "2026-02-28",
+      "store_count": 128
+    },
+    {
+      "date": "2026-03-01",
+      "store_count": 129
+    },
+    {
+      "date": "2026-03-02",
+      "store_count": 130
+    },
+    {
+      "date": "2026-03-03",
+      "store_count": 131
+    },
+    {
+      "date": "2026-03-04",
+      "store_count": 133
+    },
+    {
+      "date": "2026-03-05",
+      "store_count": 133
+    },
+    {
+      "date": "2026-03-06",
+      "store_count": 119
+    },
+    {
+      "date": "2026-03-07",
+      "store_count": 120
+    },
+    {
+      "date": "2026-03-08",
+      "store_count": 120
+    },
+    {
+      "date": "2026-03-09",
+      "store_count": 123
+    },
+    {
+      "date": "2026-03-10",
+      "store_count": 124
+    },
+    {
+      "date": "2026-03-11",
+      "store_count": 123
+    },
+    {
+      "date": "2026-03-12",
+      "store_count": 124
+    },
+    {
+      "date": "2026-03-13",
+      "store_count": 125
+    },
+    {
+      "date": "2026-03-14",
+      "store_count": 126
+    },
+    {
+      "date": "2026-03-15",
+      "store_count": 128
+    },
+    {
+      "date": "2026-03-16",
+      "store_count": 130
+    },
+    {
+      "date": "2026-03-17",
+      "store_count": 130
+    },
+    {
+      "date": "2026-03-18",
+      "store_count": 132
+    },
+    {
+      "date": "2026-03-19",
+      "store_count": 132
+    },
+    {
+      "date": "2026-03-20",
+      "store_count": 133
+    },
+    {
+      "date": "2026-03-21",
+      "store_count": 133
+    },
+    {
+      "date": "2026-03-22",
+      "store_count": 119
+    },
+    {
+      "date": "2026-03-23",
+      "store_count": 120
+    },
+    {
+      "date": "2026-03-24",
+      "store_count": 120
+    },
+    {
+      "date": "2026-03-25",
+      "store_count": 123
+    },
+    {
+      "date": "2026-03-26",
+      "store_count": 124
+    },
+    {
+      "date": "2026-03-27",
+      "store_count": 124
+    },
+    {
+      "date": "2026-03-28",
+      "store_count": 126
+    },
+    {
+      "date": "2026-03-29",
+      "store_count": 126
+    },
+    {
+      "date": "2026-03-30",
+      "store_count": 127
+    },
+    {
+      "date": "2026-03-31",
+      "store_count": 129
+    },
+    {
+      "date": "2026-04-01",
+      "store_count": 130
+    },
+    {
+      "date": "2026-04-02",
+      "store_count": 131
+    },
+    {
+      "date": "2026-04-03",
+      "store_count": 132
+    },
+    {
+      "date": "2026-04-04",
+      "store_count": 133
+    },
+    {
+      "date": "2026-04-05",
+      "store_count": 134
+    },
+    {
+      "date": "2026-04-06",
+      "store_count": 135
+    },
+    {
+      "date": "2026-04-07",
+      "store_count": 120
+    },
+    {
+      "date": "2026-04-08",
+      "store_count": 119
+    },
+    {
+      "date": "2026-04-09",
+      "store_count": 122
+    },
+    {
+      "date": "2026-04-10",
+      "store_count": 121
+    },
+    {
+      "date": "2026-04-11",
+      "store_count": 123
+    },
+    {
+      "date": "2026-04-12",
+      "store_count": 124
+    },
+    {
+      "date": "2026-04-13",
+      "store_count": 124
+    },
+    {
+      "date": "2026-04-14",
+      "store_count": 125
+    },
+    {
+      "date": "2026-04-15",
+      "store_count": 128
+    },
+    {
+      "date": "2026-04-16",
+      "store_count": 129
+    },
+    {
+      "date": "2026-04-17",
+      "store_count": 129
+    },
+    {
+      "date": "2026-04-18",
+      "store_count": 131
+    },
+    {
+      "date": "2026-04-19",
+      "store_count": 130
+    },
+    {
+      "date": "2026-04-20",
+      "store_count": 133
+    },
+    {
+      "date": "2026-04-21",
+      "store_count": 133
+    },
+    {
+      "date": "2026-04-22",
+      "store_count": 135
+    },
+    {
+      "date": "2026-04-23",
+      "store_count": 120
+    },
+    {
+      "date": "2026-04-24",
+      "store_count": 119
+    },
+    {
+      "date": "2026-04-25",
+      "store_count": 120
+    },
+    {
+      "date": "2026-04-26",
+      "store_count": 122
+    },
+    {
+      "date": "2026-04-27",
+      "store_count": 123
+    },
+    {
+      "date": "2026-04-28",
+      "store_count": 124
+    },
+    {
+      "date": "2026-04-29",
+      "store_count": 125
+    },
+    {
+      "date": "2026-04-30",
+      "store_count": 126
+    },
+    {
+      "date": "2026-05-01",
+      "store_count": 127
+    },
+    {
+      "date": "2026-05-02",
+      "store_count": 127
+    },
+    {
+      "date": "2026-05-03",
+      "store_count": 129
+    },
+    {
+      "date": "2026-05-04",
+      "store_count": 130
+    },
+    {
+      "date": "2026-05-05",
+      "store_count": 132
+    },
+    {
+      "date": "2026-05-06",
+      "store_count": 131
+    },
+    {
+      "date": "2026-05-07",
+      "store_count": 134
+    },
+    {
+      "date": "2026-05-08",
+      "store_count": 135
+    },
+    {
+      "date": "2026-05-09",
+      "store_count": 118
+    },
+    {
+      "date": "2026-05-10",
+      "store_count": 120
+    },
+    {
+      "date": "2026-05-11",
+      "store_count": 122
+    },
+    {
+      "date": "2026-05-12",
+      "store_count": 122
+    },
+    {
+      "date": "2026-05-13",
+      "store_count": 122
+    },
+    {
+      "date": "2026-05-14",
+      "store_count": 125
+    },
+    {
+      "date": "2026-05-15",
+      "store_count": 126
+    },
+    {
+      "date": "2026-05-16",
+      "store_count": 125
+    },
+    {
+      "date": "2026-05-17",
+      "store_count": 126
+    },
+    {
+      "date": "2026-05-18",
+      "store_count": 129
+    },
+    {
+      "date": "2026-05-19",
+      "store_count": 130
+    },
+    {
+      "date": "2026-05-20",
+      "store_count": 131
+    },
+    {
+      "date": "2026-05-21",
+      "store_count": 130
+    },
+    {
+      "date": "2026-05-22",
+      "store_count": 132
+    },
+    {
+      "date": "2026-05-23",
+      "store_count": 133
+    },
+    {
+      "date": "2026-05-24",
+      "store_count": 134
+    },
+    {
+      "date": "2026-05-25",
+      "store_count": 119
+    },
+    {
+      "date": "2026-05-26",
+      "store_count": 119
+    },
+    {
+      "date": "2026-05-27",
+      "store_count": 120
+    },
+    {
+      "date": "2026-05-28",
+      "store_count": 122
+    },
+    {
+      "date": "2026-05-29",
+      "store_count": 124
+    },
+    {
+      "date": "2026-05-30",
+      "store_count": 125
+    },
+    {
+      "date": "2026-05-31",
+      "store_count": 124
+    },
+    {
+      "date": "2026-06-01",
+      "store_count": 126
+    },
+    {
+      "date": "2026-06-02",
+      "store_count": 126
+    },
+    {
+      "date": "2026-06-03",
+      "store_count": 128
+    },
+    {
+      "date": "2026-06-04",
+      "store_count": 129
+    }
+  ],
+  "failures": [],
+  "meta": {
+    "start_date": "2026-01-01",
+    "end_date": "2026-06-04",
+    "source": "mock（虚构数据，仅用于演示）",
+    "row_count": 155,
+    "cache_policy": "incremental_merge"
+  }
+}

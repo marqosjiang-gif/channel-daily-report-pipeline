@@ -1,0 +1,3 @@
+{"ts": "2026-06-06T08:31:02+08:00", "recipient": "ops@example.com", "subject": "渠道日报｜截止2026-06-05", "png": "output/dashboard/channel_dashboard_mobile_20260101_20260605.png", "status": "prepared", "sender": "ops@example.com"}
+{"ts": "2026-06-06T08:31:04+08:00", "recipient": "ops@example.com", "subject": "渠道日报｜截止2026-06-05", "png": "output/dashboard/channel_dashboard_mobile_20260101_20260605.png", "status": "smtp_accepted", "sender": "ops@example.com"}
+{"ts": "2026-06-06T08:31:06+08:00", "recipient": "ops@example.com", "subject": "渠道日报｜截止2026-06-05", "png": "output/dashboard/channel_dashboard_mobile_20260101_20260605.png", "status": "verified_sent_visible", "mailbox": "\"Sent Messages\"", "uid": "1288", "verified": true, "sender": "ops@example.com"}
